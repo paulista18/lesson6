@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #141b23;
+	background-image: url(../images/image.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+	color: white;
+}
+a{
+	text-decoration: none;
+}
+.navigation{
+	padding-top: 65px;
+	padding-bottom: 75px;
+	padding-left: 55px;
+}
+.navigation-item-first{
+	display: inline-block;
+	font-family: Franklin Gothic Medium;
+	font-size: 17px;
+	padding-right: 27px;
+	opacity: 0.3;
+}
+.navigation-item-second{
+	display: inline-block;
+	font-family: Franklin Gothic Medium;
+	padding-right: 15px;
+	opacity: 0.3;
+}
+.navigation-item-third{
+	display: inline-block;
+	font-family: Franklin Gothic Medium;
+	padding-right: 15px;
+	opacity: 0.3;
+}
+.navigation-item-fourth{
+	display: inline-block;
+	font-family: Franklin Gothic Medium;
+	opacity: 0.3;
+}
+.caption{
+	font-family: Franklin Gothic Medium;
+	font-size: 25px;
+	padding-bottom: 11px;
+	padding-left: 95px;
+}
+.paragraph-first{
+	font-family: Franklin Gothic Medium;
+	font-size: 13px;
+	padding-bottom: 10px;
+	padding-left: 95px;
+}
+.paragraph-second{
+	font-family: Franklin Gothic Medium;
+	font-size: 13px;
+	padding-bottom: 200px;
+	padding-left: 95px;
+}
+.music{
+	font-size: 12px;
+	font-family: Franklin Gothic Medium;
+	padding-bottom: 50px;
+	padding-left: 55px;
+	opacity: 0.2;
+}
